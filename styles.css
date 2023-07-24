@@ -1,11 +1,13 @@
 body {
     font-family: Arial, sans-serif;
+    background-image: url('abc.webp');
+    background-size: cover;
     margin: 0;
     padding: 0;
   }
   
   header {
-    background-color: #333333;
+    background-color: #2b7b91;
     padding: 10px;
   }
   
@@ -21,7 +23,7 @@ body {
   }
   
   nav ul li a {
-    color: white;
+    color: rgb(247, 251, 252);
     text-decoration: none;
     padding: 5px 10px;
   }
@@ -38,8 +40,8 @@ body {
   
   .btn {
     display: inline-block;
-    background-color: #333;
-    color: white;
+    background-color: #246675;
+    color: rgb(237, 230, 230);
     padding: 10px 20px;
     text-decoration: none;
     border: none;
